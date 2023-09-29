@@ -1,4 +1,4 @@
-#Compiling a driver for android (lineage 14.1)
+#Compiling a driver for android (lineage 14.1 - voodik image)
 
 1) Get the main android repo Example: https://github.com/tsheltonprojects/android/tree/driver_compiler the most important things are the kernel source code and the prebuilts, in  this case 32 bit arm with eabi gcc compile. delete all non relavent projects
 
